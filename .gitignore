@@ -1,0 +1,8 @@
+# ignored files
+*.pyc
+*.sqlite3
+
+# ignored folders
+env/
+media/
+__pycache__/
